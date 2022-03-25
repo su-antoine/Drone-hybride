@@ -1,3 +1,10 @@
+Projet de terminale spé sciences de l'ingénieur.
+L'objectif est d'alimenter en électricité un robot autonome d'extérieur à l'aide d'un moteur thermique entrainant une génératrice.
+La première étape est la modélisation sous matlab/simulink de la chaîne d'énergie.
+
+
+
+
 - 👋 Hi, I’m @su-antoine
 - 👀 I’m interested in robotic.
 - 🌱 I’m currently learning synchronous motor command.
